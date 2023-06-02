@@ -11,20 +11,6 @@ I've been learning code from last two years. I'm sharing all of my projects here
 <a href="https://www.github.com/Neeraj-2525" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Neeraj-2525?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/13441/python" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/20909/html-5" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/kclhc7tomAew/adobe-photoshop" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/13631/adobe-illustrator" width="36" height="36" alt="Illustrator" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Electrolyte#3855" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg](https://icons8.com/icon/M725CLW4L7wE/discord-new)" width="32" height="32" /></a> <a href="https://www.github.com/Neeraj-2525" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/12599/github" width="32" height="32" /></a> <a href="http://www.instagram.com/n33raj.kr" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/32323/instagram" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/n33raj-kr" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/13930/linkedin" width="32" height="32" /></a> <a href="https://twitter.com/_Neeraj_kr_" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/60469/twitter-squared" width="32" height="32" /></a></p>
 
 ### Badges
 
