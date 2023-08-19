@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Responsive Designs<br>👯 I’m looking to collaborate on Web Applications<br>🌱 I’m currently learning ReactJs<br>
+I’m currently working on Responsive Designs<br> I’m looking to collaborate on Web Applications<br> I’m currently learning ReactJs<br>
 
 
 ## 🌐 Socials:
