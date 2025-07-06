@@ -1,3 +1,13 @@
-# Hi There ![01cfe9ce04153a7c9293582f66610357](https://github.com/user-attachments/assets/32d7f3e4-2535-4edd-acb8-94ac71a1cb4b)
-I’m currently working on Nextjs 14<br> I’m looking to collaborate on Web Applications<br> I’m currently learning ReactJs<br>
+# Hi There ![75695-hey-wumpus](https://github.com/user-attachments/assets/3883f941-3d2c-4c99-80ce-1764658ae8f8)
+
+
+I’m <a href="#">Neeraj<a>, a frontend design engineer based in India.
+
+I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.
+
+Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing.
+
+Fun Facts:
+* I don’t like tea.
+* Interstellar is my favourite movie.
 
