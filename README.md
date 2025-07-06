@@ -1,4 +1,4 @@
-# Hi There ![Playing_wumpus (1)](https://github.com/user-attachments/assets/202aef40-9d23-4bd1-b735-d73f287dde91)
+## Hi There ![PawWave9](https://github.com/user-attachments/assets/f078399b-9220-4a87-97ad-fed15c9e5a5a)
 
 I’m <a href="#">Neeraj<a>, a frontend design engineer based in India.
 
