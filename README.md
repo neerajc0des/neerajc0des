@@ -1,6 +1,6 @@
-### Hi There ![PawWave9 (2)](https://github.com/user-attachments/assets/4ed5803a-2a01-4090-84bb-545402533001)
+### Hi There <img src="https://github.com/user-attachments/assets/4ed5803a-2a01-4090-84bb-545402533001" width="25"/>
 
-I’m <a href="#">Neeraj<a>, a frontend design engineer based in India.
+I’m [**Neeraj**](https://github.com/neerajc0des/) a frontend design engineer based in India.
 
 I love turning design ideas into lightning-fast, accessible interfaces that feel effortless.👾
 
