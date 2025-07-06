@@ -1,5 +1,4 @@
-# Hi There ![75695-hey-wumpus](https://github.com/user-attachments/assets/3883f941-3d2c-4c99-80ce-1764658ae8f8)
-
+# Hi There ![Playing_wumpus](https://github.com/user-attachments/assets/1eb7984e-f446-4424-b84d-710793e18ed2)
 
 I’m <a href="#">Neeraj<a>, a frontend design engineer based in India.
 
